@@ -1,0 +1,17 @@
+# c25-vercel-secrets-sync
+**Constellation 25 Confirmed Script** — ran successfully on device
+
+## Stats
+- Lines: 34
+- Dependencies: git 
+
+## Usage
+```bash
+chmod +x vercel_secrets_sync.sh
+./vercel_secrets_sync.sh
+```
+
+## Source
+/data/data/com.termux/files/home/c25-final-13952/aikre8tive/scripts/vercel_secrets_sync.sh
+
+Built by Constellation 25 — FacePrintPay / Cygel White
