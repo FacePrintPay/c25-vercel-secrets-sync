@@ -12,6 +12,6 @@ chmod +x vercel_secrets_sync.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/constellation25-mono/aikre8tive/scripts/vercel_secrets_sync.sh
+/data/data/com.termux/files/home/consolidation-audit/aikre8tive/scripts/vercel_secrets_sync.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
